@@ -1,3 +1,3 @@
-const java = "Its Java Language";
+const message = "Hello Thoughtworks!";
 
-console.log(`My Message: ${java}`);
+console.log(`My Message: ${message}`);
